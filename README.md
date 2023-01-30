@@ -1,5 +1,7 @@
 # FileSwitcherPro
 
+<img src="https://user-images.githubusercontent.com/121408851/215506331-a7fe85f7-7f20-4711-8b7b-54f95e31bbe7.jpg" width="100px" />
+
 FileSwitcherPro is a successor of FileSwitcherX.
 Users can customize as they wish:
 
