@@ -14,5 +14,5 @@ Users can customize as they wish:
 This app is convenient when used with a file manager.
 
 Library (MIT License)
-(FilePicker)[https://github.com/markrenaud/FilePicker]
+[FilePicker](https://github.com/markrenaud/FilePicker)
 https://github.com/markrenaud/FilePicker/blob/main/LICENCE
