@@ -13,7 +13,8 @@ Users can customize as they wish:
 
 This app is convenient when used with a file manager.
 
-Library (MIT License)
+Library
 
 [FilePicker](https://github.com/markrenaud/FilePicker)
+
 [MIT License](https://github.com/markrenaud/FilePicker/blob/main/LICENCE)
