@@ -12,3 +12,8 @@ Users can customize as they wish:
 - Importing a file that has been modified in another app will allow all changes to be applied in just this app.
 
 This app is convenient when used with a file manager.
+
+Library
+FilePicker (MIT License)
+https://github.com/markrenaud/FilePicker
+https://github.com/markrenaud/FilePicker/blob/main/LICENCE
