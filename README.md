@@ -1,7 +1,7 @@
 # えびふらいのしっぼ
 iOS 14.0-15.7.1 & 16.0-16.1.2
 
-<img src="https://user-images.githubusercontent.com/121408851/215506331-a7fe85f7-7f20-4711-8b7b-54f95e31bbe7.jpg" width="100px" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvurhD0N0D1E4qVMDv6oSOByl1vmJnrzT48Q&usqp=CAU" width="100px" />
 
 FileSwitcherPro is a successor of FileSwitcherX.
 Users can customize as they wish:
