@@ -1,4 +1,4 @@
-# えびふらいのしっぼ
+# FileSwitcherPro
 iOS 14.0-15.7.1 & 16.0-16.1.2
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvurhD0N0D1E4qVMDv6oSOByl1vmJnrzT48Q&usqp=CAU" width="100px" />
